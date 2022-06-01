@@ -1,2 +1,2 @@
-# hw1_calculator
-Copy of my work
+# calculator_1
+Copy of my previous work
